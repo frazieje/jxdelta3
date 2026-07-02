@@ -1,0 +1,3 @@
+[submodule "xdelta3/external/xdelta"]
+	path = xdelta3/external/xdelta
+	url = git@github.com:jmacd/xdelta.git
